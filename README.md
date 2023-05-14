@@ -1,6 +1,6 @@
 
 
-<img src="https://img.shields.io/badge/velog-000000?style=for-the-badge&logo=Python&logoColor=white">
+<a href="https://velog.io/@parkjunhoo"><img src="https://img.shields.io/badge/velog-000000?style=for-the-badge&logo=Python&logoColor=white"></a>
 
 
 
