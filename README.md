@@ -11,5 +11,5 @@
 <br/>  
 
 <a href="https://parkjunhoo.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory&nbsp블로그-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tistory&nbsp블로그-FF9E0F?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
