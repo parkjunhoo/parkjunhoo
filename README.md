@@ -1,7 +1,7 @@
 
 
 <a href="https://velog.io/@parkjunhoo" target="_blank">
-  <img src="https://img.shields.io/badge/velog-000000?style=for-the-badge&logo=Python&logoColor=white"
+  <img src="https://img.shields.io/badge/velog-000000?style=for-the-badge&logo=velog&logoColor=white"
 </a>
 
 
