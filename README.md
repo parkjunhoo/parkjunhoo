@@ -1,7 +1,8 @@
 
 
 <a href="https://velog.io/@parkjunhoo" target="_blank">
-  <img src="https://img.shields.io/badge/Velog&nbsp블로그-000000?style=for-the-badge&logo=velog&logoColor=white"
+  <img src="https://img.shields.io/badge/Velog&nbsp블로그-000000?style=for-the-badge&logo=velog&logoColor=white"/>
+  https://velog.io/@parkjunhoo
 </a>
 
 
