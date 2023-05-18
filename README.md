@@ -14,14 +14,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 </p>
 
-<p align="center"> 📫  Contact </p>
-
-<p align="center">
-<a href="https://www.youtube.com/channel/UCJRWpgOA4PkRk2FjFSaCpuA"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=AKl53l4gDjs"/></a>&nbsp
-<a href="https://parkjunhoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory&nbsp블로그-FF9E0F?style=flat-square&logo=Tistory&logoColor=white"/></a>
-</p>
-
-
 <table><tr><td valign="center" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=parkjunhoo&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
@@ -31,6 +23,16 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkjunhoo&hide_border=true&layout=compact" align="center" style="width: 100%" />
 
 </td></tr></table>  
+
+<p align="center"> 📫  Contact </p>
+
+<p align="center">
+<a href="https://www.youtube.com/channel/UCJRWpgOA4PkRk2FjFSaCpuA"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=AKl53l4gDjs"/></a>&nbsp
+<a href="https://parkjunhoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory&nbsp블로그-FF9E0F?style=flat-square&logo=Tistory&logoColor=white"/></a>
+</p>
+
+
+
 <br/>  
 
 
