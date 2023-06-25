@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Mybatis-007396?style=flat-square&logo=Mybatis&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=JDBC&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=JPA&logoColor=white"/></a>
 </p>
 
 <table><tr><td valign="center" width="50%">
