@@ -38,7 +38,7 @@
 <p align="center"> 📰  Notion Profile </p>
 
 <p align="center"><a align="center" href="https://www.notion.so/0c44776812934592bdfee4f3324385cd?pvs=4" target="_blank">
-<img src="https://img.shields.io/badge/notion&nbsp블로그-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion&nbsp프로필-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </p>
 
 
