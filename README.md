@@ -37,7 +37,6 @@
 <a href="https://parkjunhoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory&nbsp블로그-FF9E0F?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
 
-![이력서_1](https://github.com/parkjunhoo/parkjunhoo/assets/56852562/3bdd6ae9-daca-486f-bdcd-585740bb34ff)
 
 
 <br/>  
