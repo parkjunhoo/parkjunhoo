@@ -4,20 +4,19 @@
 
 <p align="center"> ⚒ Stack </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C%23-007396?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=JSP&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mybatis-007396?style=flat-square&logo=Mybatis&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=JDBC&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=JPA&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C%23-007396?style=flat-square&logo=csharp&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=JSP&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Mybatis-007396?style=flat-square&logo=Mybatis&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=JDBC&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=JPA&logoColor=white"/></a>
 </p>
 
 <table><tr><td valign="center" width="50%">
