@@ -34,13 +34,6 @@
 <p align="center">
 <a href="https://parkjunhoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory&nbsp블로그-FF9E0F?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
-<br>
-<p align="center"> 📰  Notion Profile </p>
-
-<p align="center"><a align="center" href="https://horn-squid-cc6.notion.site/0c44776812934592bdfee4f3324385cd?pvs=4" target="_blank">
-<img src="https://img.shields.io/badge/Notion&nbsp프로필-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-</p>
-
 
 <br/>  
 
