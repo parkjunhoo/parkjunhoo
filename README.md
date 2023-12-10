@@ -31,9 +31,6 @@
 
 <p align="center"> 📫  Contact </p>
 
-<p align="center">
-<a href="https://parkjunhoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory&nbsp블로그-FF9E0F?style=flat-square&logo=Tistory&logoColor=white"/></a>
-</p>
 
 <br/>  
 
