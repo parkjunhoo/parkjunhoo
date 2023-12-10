@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ParkJunHoo&fontSize=90&animation=twinkling)
 
-<p align="center"> ⚒ Stack </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C%23-007396?style=flat-square&logo=csharp&logoColor=white"/></a>
@@ -28,9 +27,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkjunhoo&hide_border=true&layout=compact&theme=dark" align="center" style="width: 100%" />
 
 </td></tr></table>  
-
-<p align="center"> 📫  Contact </p>
-
 
 <br/>  
 
